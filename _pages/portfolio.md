@@ -13,7 +13,7 @@ feature_row1-1:
     title: "Test Particle Monte-Carlo solver in Python"
     excerpt: "In Python, I created a test particle monte-carlo solver to simulate the diffusion of molecular species through a membrane. The effect of nonequilibrium wall temperatures on rarefied gas flow is investigated. Gas properties, including shear stress and heat transfer rates were computed to show evolution of properties over time due to the nonequilibrium wall. <br />
     <br />
-    [PDF](/assets/docs/dsmc_p1.pdf){: .btn .btn--primary .btn--small}
+    [PDF](/personal_website/assets/docs/dsmc_p1.pdf){: .btn .btn--primary .btn--small}
     "
 
 feature_row1-2:
@@ -22,7 +22,7 @@ feature_row1-2:
     title: "Direct Simulation Monte-Carlo solver in Python"
     excerpt: "In Python, I created a Direct Simulation Monte-Carlo solver to simulate a shock-tube from a molecular standpoint. Multiple freestream mach numbers and densities are chosen and the resulting shock width is computed. Results show that collisions drive a system towards equilibrium by transferring energy between particles. <br />
     <br />
-    [PDF](/assets/docs/dsmc_p2.pdf){: .btn .btn--primary .btn--small}
+    [PDF](/personal_website/assets/docs/dsmc_p2.pdf){: .btn .btn--primary .btn--small}
     "
 
 feature_row0-0:
@@ -31,7 +31,7 @@ feature_row0-0:
     title: "Supersonic Engine Analysis"
     excerpt: "In MATLAB, I created a first-order finite volume solver to simulate supersonic flow through the engine inlet of the X-43. An automatic mesh adaption routine was also created to sequentially adapt the mesh to regions of high gradients. <br />
     <br />
-    [PDF](/assets/docs/523p2.pdf){: .btn .btn--primary .btn--small}
+    [PDF](/personal_website/assets/docs/523p2.pdf){: .btn .btn--primary .btn--small}
     "
 
 feature_row0-1:
@@ -40,7 +40,7 @@ feature_row0-1:
     title: "Role of Pulsatiliy on Particle Dispersion in Expiratory Flows"
     excerpt: "At Michigan, I worked to investigate the role of pulsatility on the dispersion of cough-borne particles. Of particular relevance to this project was the ongoing COVID-19 pandemic and the questions it raised on social distancing practices. Through fluid simulation, I focused on recreating a realistic (multiple-pulses), particle-laden cough to isolate the effect of pulsatility and highlight its effect on the transmission of disease.<br />
     <br />
-    [PDF](/assets/docs/role_of_pulsatility.pdf){: .btn .btn--primary .btn--small}
+    [PDF](/personal_website/assets/docs/role_of_pulsatility.pdf){: .btn .btn--primary .btn--small}
     [DOI](https://doi.org/10.1063/5.0048746){: .btn .btn--primary .btn--small}
     "
 
@@ -52,7 +52,7 @@ feature_row0-2:
     excerpt: "For my senior aircraft design class, my team and I were tasked to design a replacement for the Boeing 737-800 MAX that could exceepd  the performance characteristics of it's competitor: the Airbus A321XLR. From our analysis, we determined that single-aisle, low-wing configuration with a composite structure would result in a aircraft with a lower direct operating cost then that of the A321XLR. 
     <br />
     <br />
-    [PDF](/assets/docs/CDR_Report.pdf){: .btn .btn--primary .btn--small}
+    [PDF](/personal_website/assets/docs/CDR_Report.pdf){: .btn .btn--primary .btn--small}
     "
 
 feature_row0-3:
@@ -66,13 +66,13 @@ feature_row0-3:
     "
 
 feature_row0-4:
-  - image_path: assets/images/rig_tunnel.png
+  - image_path: assets/images/405.png
     alt: "wing"
     title: "Propeller-Wing Interaction Study"
     excerpt: "For senior design, my team and I investigated the aerodynamic effects of a electronically translational wing-mounted propeller. To meet this task, we designed a half-span wing model for the University's 5 x 7 ft Low Turbulence Tunnel. We found that increased spanwise placement results in clear benefits to aircraft performance - particularly at cruise. 
     <br />
     <br />
-    [PDF](/assets/docs/405_Report.pdf){: .btn .btn--primary .btn--small}
+    [PDF](/personal_website/assets/docs/405_Report.pdf){: .btn .btn--primary .btn--small}
     "
 ---
 ## University of Colorado Boulder

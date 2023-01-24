@@ -23,6 +23,8 @@ twitter_username: username
 github_username: kamo6346
 minimal_mistakes_skin: default
 search: false
+url: https://kamo6346.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl: /personal_website # the subpath of your site, e.g. "/blog"
 repository: kamo6346/personal_website
 
 # Build settings
