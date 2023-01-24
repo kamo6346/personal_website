@@ -13,16 +13,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: Kal Monroe
+email: kal.monroe@colorado.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is a personal website for Kal Monroe. Kal Monroe is currently a 
+  PhD pre-candidate at the university of Colorado Boulder under Dr. Iain Boyd. 
+  His focus is in hypersonic aerothermodynamics, aircraft design, and nonequillibrium flows. 
 twitter_username: username
-github_username: username
+github_username: kamo6346
 minimal_mistakes_skin: default
-search: true
+search: false
+repository: kamo6346/personal_website
 
 # Build settings
 markdown: kramdown
@@ -58,34 +59,19 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Kal Monroe"
+  avatar : "/assets/images/headshot_BW.jpg"
+  bio    : "PhD pre-candidate, aerospace engineering"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+  - label: " Boulder CO, USA"
+    icon: "fas fa-map-marker-alt fa-fw"
+    url:  "https://www.google.com/maps/place/Boulder,+CO/@40.0292888,-105.3100174,12z/data=!3m1!4b1!4m5!3m4!1s0x876b8d4e278dafd3:0xc8393b7ca01b8058!8m2!3d40.0149856!4d-105.2705456"
+  - label: " Email"
+    icon: "fas fa-paper-plane fa-fw"
+    url: "mailto:kal.monroe@colorado.edu"
+  - label: " LinkedIn"
+    icon: "fab fa-linkedin fa-fw"
+    url: "https://www.linkedin.com/in/kal-monroe-576908152/"
 
 defaults:
   # _posts
@@ -95,10 +81,11 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
-      share: true
+      read_time: false
+      comments: false
+      share: false
       related: true
+      show_date: true
   # _pages
   - scope:
       path: "_pages"

@@ -1,9 +1,11 @@
 main:
   - title: "Posts"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
+  - title: "Portfolio"
+    url: /portfolio/
+  - title: "Gallery"
+    url: /gallery/
+  - title: "CV"
+    url: /assets/docs/Monroe_CV.pdf  
+  - title: "About Me"
     url: /about/
