@@ -19,14 +19,14 @@ I try to get outside whenever I get the chance - take a look [here]({{ site.base
 
 ### Education 
 <br />
-<img src="/assets/images/cu.png" width="50px">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/cu.png" width="50px">
  &nbsp;&nbsp;
  PhD in Aerospace Engineering, 2021-present  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
 <span style="font-size:smaller;color:gray;">University of Colorado Boulder</span>
 
 
-<img src="/assets/images/michigan.png" width="50px">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/michigan.png" width="50px">
  &nbsp;&nbsp;
  BSE in Aerospace Engineering, 2017-2021  <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
