@@ -11,7 +11,7 @@ title: "About Me"
 </figure> 
 
 
-Thanks for visiting! Currently, I'm a second year PhD student at the University of Colorado Boulder and a member of the [Nonequillibrium Gas and Plasma Dynamics Laboratory](https://www.colorado.edu/lab/ngpdl/) under Prof. Iain Boyd. My research involves the simulation of high-speed compressible flows where thermochemical effects are no longer negligible.
+Thanks for visiting! Currently, I'm a third year PhD student at the University of Colorado Boulder and a member of the [Nonequillibrium Gas and Plasma Dynamics Laboratory](https://www.colorado.edu/lab/ngpdl/) under Prof. Iain Boyd. My research involves the simulation of high-speed compressible flows where thermochemical effects are no longer negligible.
 
 Previously, I graduated from The University of Michigan with my BSE in Aerospace Engineering with a focus in external aerodynamic analysis and aircraft design. There, I worked within Prof. Jesse Capecelatro's [Multiphase/Multi-Physics Flow Laboratory](http://www-personal.umich.edu/~jcaps/) studying the particle flow physics of pulsatile coughs and expulsions. I was also strongly involved with my student design team, [M-Fly](https://mfly.engin.umich.edu/) where I helped design large-scale RC aircraft for the national SAE aero competition. 
 
@@ -22,6 +22,12 @@ I try to get outside whenever I get the chance - take a look [here]({{ site.base
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/cu.png" width="50px">
  &nbsp;&nbsp;
  PhD in Aerospace Engineering, 2021-present  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
+<span style="font-size:smaller;color:gray;">University of Colorado Boulder</span>
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/cu.png" width="50px">
+ &nbsp;&nbsp;
+ MS in Aerospace Engineering, 2021-2023
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
 <span style="font-size:smaller;color:gray;">University of Colorado Boulder</span>
 

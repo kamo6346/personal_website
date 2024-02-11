@@ -14,6 +14,8 @@ gallery:
   - image_path: https://i.postimg.cc/y81g4DWb/IMG-7689-14.jpg
   - image_path: https://i.postimg.cc/XJzjN6kj/0883.jpg
   - image_path: https://i.postimg.cc/tTZnS87R/1394.jpg
+  - image_path: https://i.postimg.cc/ZKYnzGmr/IMG-2086-5.jpg
+  - image_path: https://i.postimg.cc/xTsCf6jB/IMG-2079.jpg
   - image_path: https://i.postimg.cc/Yq303t8f/IMG-7689-3.jpg
   - image_path: https://i.postimg.cc/ncMm1nPk/IMG-7689-12.jpg
 ---
