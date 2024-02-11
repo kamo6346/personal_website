@@ -27,7 +27,7 @@ I try to get outside whenever I get the chance - take a look [here]({{ site.base
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/cu.png" width="50px">
  &nbsp;&nbsp;
- MS in Aerospace Engineering, 2021-2023
+ MS in Aerospace Engineering, 2021-2023  <br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
 <span style="font-size:smaller;color:gray;">University of Colorado Boulder</span>
 
